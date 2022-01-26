@@ -7,6 +7,4 @@ This repository is the source code for my blog series about creating one to many
 
 # Easy deployment instruction
 
-```pwsh
-
-``` 
+Coming soon!
