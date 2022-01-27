@@ -2,7 +2,7 @@ This repository is the source code for my blog series about creating one to many
 
 1. [Deploy Resource Groups](https://rbnmk.net/blog/landing-zone-resource-groups/)
 2. [Add tags to resources](https://rbnmk.net/blog/landing-zone-tags/)
-3. [Add the HUB Virtual Network]()
+3. [Add the HUB Virtual Network](https://rbnmk.net/blog/landing-zone-vnet/)
 4. Next up.. [Add the spoke configuration and connect it with the HUB]()
 
 # Easy deployment instruction
